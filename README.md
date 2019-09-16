@@ -1,4 +1,4 @@
-To access the app: https://frontend-online-quadros.herokuapp.com/
+To access the app: https://test-rank-my-app.herokuapp.com/
 
 
 
